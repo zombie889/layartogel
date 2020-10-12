@@ -6,7 +6,7 @@ body {
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   color: #fff;
-  background: #06151c url(../../img/jb/bg.jpg) center center no-repeat;
+  background: #06151c url(https://i2.wp.com/94.237.69.57/assets/img/jb/bg.jpg) center center no-repeat;
   background-position: top;
 }
 
@@ -69,7 +69,7 @@ h2 {
   margin-left: 0;
   width: 210px;
   height: 63px;
-  background: url(../../img/jb/logo.png) no-repeat;
+  background: url(https://i2.wp.com/94.237.69.57/assets/img/jb/logo.png) no-repeat;
   background-size: 210px 63px;
 }
 .navbar-fixed-top .navbar-header .navbar-brand .subheading {
@@ -3384,7 +3384,7 @@ span.overline:before {
 }
 
 .news-body {
-  background: #ffffff url(../../img/jb/point.jpg) left center no-repeat;
+  background: #ffffff url(https://i2.wp.com/94.237.69.57/assets/img/jb/point.jpg) left center no-repeat;
   height: 35px;
   overflow: hidden;
 }
@@ -3405,7 +3405,7 @@ span.overline:before {
 }
 
 .pools-bg {
-  background: #f76f9f url(../../img/jb/24d-bg.png) center no-repeat; /* Old browsers */
+  background: #f76f9f url(https://i2.wp.com/94.237.69.57/assets/img/jb/24d-bg.png) center no-repeat; /* Old browsers */
   background: -moz-linear-gradient(45deg,  #f76f9f 0%, #f6926e 100%); /* FF3.6+ */
   background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#f76f9f), color-stop(100%,#f6926e)); /* Chrome,Safari4+ */
   background: -webkit-linear-gradient(45deg,  #f76f9f 0%,#f6926e 100%); /* Chrome10+,Safari5.1+ */
@@ -3493,32 +3493,32 @@ span.overline:before {
 }
 
 .bg-pool {
-  background: url(../../img/jb/pool-bg.png) center no-repeat;
+  background: url(https://i2.wp.com/94.237.69.57/assets/img/jb/pool-bg.png) center no-repeat;
   background-position: 50% 20px;
 }
 
 .bg-24d {
-  background: url(../../img/jb/24d-bg.png) center no-repeat;
+  background: url(https://i2.wp.com/94.237.69.57/assets/img/jb/24d-bg.png) center no-repeat;
   background-position: 50% 20px;
 }
 
 .bg-bogil {
-  background: url(../../img/jb/bogil-bg.png) center no-repeat;
+  background: url(https://i2.wp.com/94.237.69.57/assets/img/jb/bogil-bg.png) center no-repeat;
   background-position: 50% 20px;
 }
 
 .bg-sicbo {
-  background: url(../../img/jb/sicbo-bg.png) center no-repeat;
+  background: url(https://i2.wp.com/94.237.69.57/assets/img/jb/sicbo-bg.png) center no-repeat;
   background-position: 50% 20px;
 }
 
 .bg-roulette {
-  background: url(../../img/jb/roulette-bg.png) center no-repeat;
+  background: url(https://i2.wp.com/94.237.69.57/assets/img/jb/roulette-bg.png) center no-repeat;
   background-position: 50% 20px;
 }
 
 .bg-dragontiger {
-  background: url(../../img/jb/dragontiger-bg.png) center no-repeat;
+  background: url(https://i2.wp.com/94.237.69.57/assets/img/jb/dragontiger-bg.png) center no-repeat;
   background-position: 50% 20px;
 }
 
@@ -3737,3 +3737,4 @@ table tr {
 ul.newsticker > li > a {
   color: #0b161e;
 }
+
